@@ -1,0 +1,6 @@
+{
+  "name": "FATIMA SHOP - Parfumerie & Bien-être de Luxe",
+  "description": "Boutique en ligne haut de gamme spécialisée dans les parfums raffinés, savons noirs traditionnels Hamam, huiles orientales et douceurs raffinées au Sénégal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
